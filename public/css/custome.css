@@ -1,0 +1,6 @@
+.widget-small.primary.coloured-icon,
+.widget-small.info.coloured-icon,
+.widget-small.warning.coloured-icon,
+.widget-small.danger.coloured-icon {
+    padding: 10px;
+}
